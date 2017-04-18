@@ -55,7 +55,7 @@ prose:
           element: "text"
           label: "Permalink"
           value: ""
-    _portfolio:
+    _posts/portfolio:
       - name: "url"
         field:
           element: "text"
