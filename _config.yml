@@ -55,3 +55,9 @@ prose:
           element: "text"
           label: "Permalink"
           value: ""
+    _portfolio:
+      - name: "status"
+        field:
+          element: "text"
+          label: "Status"
+          value: ""
