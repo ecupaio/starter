@@ -66,3 +66,19 @@ prose:
           element: "text"
           label: "Title"
           value: ""
+    _posts/test:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "page"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "Permalink"
+          value: ""      
+ 
